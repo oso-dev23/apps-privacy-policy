@@ -1,26 +1,3 @@
-<!DOCTYPE html>
-<html lang="ja">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>プライバシーポリシー｜えほんきろく</title>
-  <style>
-    body {
-      font-family: "Meiryo UI", "メイリオ", sans-serif;
-      max-width: 800px;
-      margin: 40px auto;
-      padding: 0 20px;
-      line-height: 1.8;
-      color: #333;
-    }
-    h1 { font-size: 1.6em; border-bottom: 2px solid #ccc; padding-bottom: 8px; }
-    h2 { font-size: 1.1em; margin-top: 2em; }
-    p, li { font-size: 0.95em; }
-    footer { margin-top: 3em; font-size: 0.85em; color: #666; border-top: 1px solid #eee; padding-top: 1em; }
-  </style>
-</head>
-<body>
-
   <h1>プライバシーポリシー</h1>
 
   <p>本プライバシーポリシーは、アプリ「えほんきろく」（以下「本アプリ」）における、ユーザーの個人情報の取り扱いについて説明するものです。</p>
@@ -59,7 +36,7 @@
 
   <footer>
     <p>制定日：2024年4月26日</p>
-    <p>運営者：[あなたの本名]</p>
+    <p>運営者：Koji Osozawa</p>
   </footer>
 
 </body>
